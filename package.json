@@ -1,11 +1,32 @@
 {
   "name": "GiltStudio",
-  "version": "0.9.23",
+  "version": "0.9.24",
   "private": true,
-  "description": "A powerful AI assistant for producer.",
+  "description": "A powerful AI assistant for producers.",
   "main": "./out/main/index.js",
   "author": "juneding76 (juneding7699@gmail.com)",
   "homepage": "https://github.com/juneding76/gilt-studio",
+  "build": {
+  "appId": "com.juneding76.GiltStudio",
+  "productName": "GiltStudio",
+  "directories": {
+    "output": "dist"
+  },
+  "win": {
+    "target": "nsis"
+  },
+  "mac": {
+    "target": "dmg"
+  },
+  "linux": {
+    "target": "AppImage"
+  },
+  "files": [
+    "dist/**/*",
+    "package.json"
+  ]
+}
+
   "workspaces": {
     "packages": [
       "local",
@@ -29,6 +50,7 @@
     "build": "npm run typecheck && electron-vite build",
     "postinstall": "electron-builder install-app-deps",
     "build:unpack": "dotenv npm run build && electron-builder --dir",
+    "dist": "electron-builder",
     "build:win": "dotenv npm run build && electron-builder --win",
     "build:win:x64": "dotenv npm run build && electron-builder --win --x64",
     "build:mac": "dotenv electron-vite build && electron-builder --mac",
