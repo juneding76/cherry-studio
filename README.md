@@ -5,7 +5,6 @@
 </h1>
   <p align="center">English | <a href="./docs/README.zh.md">中文</a> | <a href="./docs/README.ja.md">日本語</a><br></p>
 <div align="center">
- <a href="https://trendshift.io/repositories/11772" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11772" alt="juneding76%2Fgilt-studio| Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
 
 # GiltStudio
