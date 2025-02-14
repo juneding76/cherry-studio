@@ -1,6 +1,7 @@
 </h1>
 <div align="center">
   中文 / <a href="https://github.com/juneding76/gilt-studio">English</a> / <a href="./README.ja.md">日本語</a>
+
   
 # GiltStudio
 
@@ -8,8 +9,6 @@ GiltStudio 是一款支持多个大语言模型（LLM）服务商的桌面客户
 
 
 # 🌟 主要特性
-
-![](https://github.com/user-attachments/assets/995910f3-177a-4d1e-97ea-04e3b009ba36)
 
 1. **多样化 LLM 服务支持**：
 
