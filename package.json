@@ -7,25 +7,25 @@
   "author": "juneding76 (juneding7699@gmail.com)",
   "homepage": "https://github.com/juneding76/gilt-studio",
   "build": {
-  "appId": "com.juneding76.GiltStudio",
-  "productName": "GiltStudio",
-  "directories": {
-    "output": "dist"
+    "appId": "com.juneding76.GiltStudio",
+    "productName": "GiltStudio",
+    "directories": {
+      "output": "dist"
+     },
+    "win": {
+      "target": "nsis"
+    },
+    "mac": {
+      "target": "dmg"
+    },
+    "linux": {
+      "target": "AppImage"
+    },
+    "files": [
+      "dist/**/*",
+      "package.json"
+    ]
   },
-  "win": {
-    "target": "nsis"
-  },
-  "mac": {
-    "target": "dmg"
-  },
-  "linux": {
-    "target": "AppImage"
-  },
-  "files": [
-    "dist/**/*",
-    "package.json"
-  ]
-}
 
   "workspaces": {
     "packages": [
