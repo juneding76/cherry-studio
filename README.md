@@ -1,30 +1,20 @@
 <h1 align="center">
-  <a href="https://github.com/kangfenmao/cherry-studio/releases">
-    <img src="https://github.com/kangfenmao/cherry-studio/blob/main/build/icon.png?raw=true" width="150" height="150" alt="banner" /><br>
+  <a href="https://github.com/juneding76/gilt-studio/releases">
+    <img src="https://github.com/juneding76/gilt-studio/blob/main/build/icon.png?raw=true" width="150" height="150" alt="banner" /><br>
   </a>
 </h1>
   <p align="center">English | <a href="./docs/README.zh.md">中文</a> | <a href="./docs/README.ja.md">日本語</a><br></p>
 <div align="center">
- <a href="https://trendshift.io/repositories/11772" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11772" alt="kangfenmao%2Fcherry-studio | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+ <a href="https://trendshift.io/repositories/11772" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11772" alt="juneding76%2Fgilt-studio| Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
 
-# 🍒 Cherry Studio
+# GiltStudio
 
-Cherry Studio is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+GiltStudio is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
 
-👏 Join [Telegram Group](https://t.me/CherryStudioAI)｜[Discord](https://discord.gg/wez8HtpxqQ) | [QQ Group(1022779719)](https://qm.qq.com/q/Qtw8As0cwe)
-
-❤️ Like Cherry Studio? Give it a star 🌟 or [Sponsor](docs/sponsor.md) to support the development!
-
-# 🌠 Screenshot
-
-![](https://github.com/user-attachments/assets/28585d83-4bf0-4714-b561-8c7bf57cc600)
-![](https://github.com/user-attachments/assets/8576863a-f632-4776-bc12-657eeced9da3)
-![](https://github.com/user-attachments/assets/790790d7-b462-48dd-bde1-91c1697a4648)
 
 # 🌟 Key Features
 
-![](https://github.com/user-attachments/assets/7b4f2f78-5cbe-4be8-9aec-f98d8405a505)
 
 1. **Diverse LLM Provider Support**:
 
@@ -95,7 +85,7 @@ $ yarn build:linux
 
 # 🤝 Contributing
 
-We welcome contributions to Cherry Studio! Here are some ways you can contribute:
+We welcome contributions to GiltStudio! Here are some ways you can contribute:
 
 1. **Contribute Code**: Develop new features or optimize existing code.
 2. **Fix Bugs**: Submit fixes for any bugs you find.
@@ -103,7 +93,7 @@ We welcome contributions to Cherry Studio! Here are some ways you can contribute
 4. **Product Design**: Participate in design discussions.
 5. **Write Documentation**: Improve user manuals and guides.
 6. **Community Engagement**: Join discussions and help users.
-7. **Promote Usage**: Spread the word about Cherry Studio.
+7. **Promote Usage**: Spread the word about GiltStudio.
 
 ## Getting Started
 
@@ -119,29 +109,11 @@ Thank you for your support and contributions!
 ## Related Projects
 * [one-api](https://github.com/songquanpeng/one-api):LLM API management and distribution system, supporting mainstream models like OpenAI, Azure, and Anthropic. Features unified API interface, suitable for key management and secondary distribution.
 
-# 🚀 Contributors
-
-<a href="https://github.com/kangfenmao/cherry-studio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kangfenmao/cherry-studio" />
-</a>
-<br /><br />
-
-# 🌐 Community
-
-[Telegram](https://t.me/CherryStudioAI) | [Email](mailto:kangfenmao@gmail.com) | [Twitter](https://x.com/kangfenmao)
-
-# 📣 Product Hunt
-
-<a href="https://www.producthunt.com/posts/cherry-studio?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cherry&#0045;studio" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=496640&theme=light" alt="Cherry&#0032;Studio - AI&#0032;Chatbots&#0044;&#0032;AI&#0032;Desktop&#0032;Client | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-# ☕ Sponsor
-
-[Buy Me a Coffee](docs/sponsor.md)
 
 # 📃 License
 
 [LICENSE](./LICENSE)
 
-# ⭐️ Star History
+# Acknowledgement
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kangfenmao/cherry-studio&type=Timeline)](https://star-history.com/#kangfenmao/cherry-studio&Timeline)
+Special thanks to the original creators of Cherry Studio for laying the foundation for this application.

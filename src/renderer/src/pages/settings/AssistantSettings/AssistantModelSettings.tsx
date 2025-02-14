@@ -289,18 +289,18 @@ const AssistantModelSettings: FC<Props> = ({ assistant, updateAssistant, updateA
         <Col span={20}>
           <Slider
             min={0}
-            max={20}
+            max={65}
             onChange={setContextCount}
             onChangeComplete={onContextCountChange}
             value={typeof contextCount === 'number' ? contextCount : 0}
-            marks={{ 0: '0', 5: '5', 10: '10', 15: '15', 20: t('chat.settings.max') }}
+            marks={{ 0: '0', 5: '5', 10: '10', 15: '15', 20: '20', 25: '25', 30: '30', 35: '35', 40: '40', 45: '45', 50: '50', 55: '55', 60: '60', 65: t('chat.settings.max') }}
             step={1}
           />
         </Col>
         <Col span={4}>
           <InputNumber
             min={0}
-            max={20}
+            max={65}
             step={1}
             value={contextCount}
             changeOnBlur

@@ -1,5 +1,5 @@
-appId: com.kangfenmao.CherryStudio
-productName: Cherry Studio
+appId: com.juneding76.GiltStudio
+productName: GiltStudio
 directories:
   buildResources: build
 files:
@@ -31,7 +31,7 @@ asarUnpack:
   - resources/**
   - '**/*.{node,dll,metal,exp,lib}'
 win:
-  executableName: Cherry Studio
+  executableName: GiltStudio
   artifactName: ${productName}-${version}-portable.${ext}
   target:
     - target: nsis
@@ -73,7 +73,7 @@ linux:
   category: Utility
 publish:
   provider: generic
-  url: https://cherrystudio.ocool.online
+  url: https://giltstudio.ocool.online
 electronDownload:
   mirror: https://npmmirror.com/mirrors/electron/
 afterPack: scripts/after-pack.js

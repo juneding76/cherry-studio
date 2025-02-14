@@ -1,11 +1,11 @@
 {
-  "name": "CherryStudio",
+  "name": "GiltStudio",
   "version": "0.9.23",
   "private": true,
   "description": "A powerful AI assistant for producer.",
   "main": "./out/main/index.js",
-  "author": "kangfenmao@qq.com",
-  "homepage": "https://github.com/kangfenmao/cherry-studio",
+  "author": "juneding76 (juneding7699@gmail.com)",
+  "homepage": "https://github.com/juneding76/gilt-studio",
   "workspaces": {
     "packages": [
       "local",
@@ -41,7 +41,7 @@
     "release": "node scripts/version.js",
     "publish": "yarn release patch push",
     "pulish:artifacts": "cd packages/artifacts && npm publish && cd -",
-    "generate:agents": "yarn workspace @cherry-studio/database agents",
+    "generate:agents": "yarn workspace @gilt-studio/database agents",
     "generate:icons": "electron-icon-builder --input=./build/logo.png --output=build",
     "analyze:renderer": "VISUALIZER_RENDERER=true yarn build",
     "analyze:main": "VISUALIZER_MAIN=true yarn build",

@@ -51,7 +51,7 @@ const Sidebar: FC = () => {
   const onOpenDocs = () => {
     MinApp.start({
       name: t('docs.title'),
-      url: 'https://docs.cherry-ai.com/',
+      url: 'https://docs.gilt-ai.com/',
       logo: AppLogo
     })
   }

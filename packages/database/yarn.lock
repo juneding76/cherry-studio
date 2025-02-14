@@ -5,9 +5,9 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"@cherry-studio/database@workspace:.":
+"@gilt-studio/database@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@cherry-studio/database@workspace:."
+  resolution: "@gilt-studio/database@workspace:."
   dependencies:
     csv-parser: "npm:^3.0.0"
     sqlite3: "npm:^5.1.7"

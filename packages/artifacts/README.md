@@ -1,1 +1,1 @@
-# Cherry Studio Artifacts
+# GiltStudio Artifacts

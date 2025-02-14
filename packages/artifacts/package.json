@@ -1,9 +1,9 @@
 {
-  "name": "@cherry-studio/artifacts",
+  "name": "@gilt-studio/artifacts",
   "version": "0.1.0",
-  "description": "Cherry Studio Artifacts",
+  "description": "GiltStudio Artifacts",
   "main": "index.js",
-  "homepage": "https://github.com/kangfenmao/cherry-studio/blob/main/npm/artifacts",
+  "homepage": "https://github.com/juneding76/gilt-studio/blob/main/npm/artifacts",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
@@ -14,6 +14,6 @@
   "keywords": [
     "artifacts"
   ],
-  "author": "kangfenmao",
+  "author": "juneding76",
   "license": "ISC"
 }
