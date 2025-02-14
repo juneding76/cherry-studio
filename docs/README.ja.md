@@ -4,6 +4,7 @@
   <a href="./README.md">English</a> | <a href="./README.zh.md">中文</a> | 日本語
 </div>
 </div>
+
 # GiltStudio
 
 GiltStudioは、複数のLLMプロバイダーをサポートするデスクトップクライアントで、Windows、Mac、Linuxで利用可能です。
