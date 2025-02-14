@@ -1,14 +1,14 @@
 <h1 align="center">
   <a href="https://github.com/juneding76/gilt-studio/releases">
-    <img src="https://github.com/juneding76/gilt-studio/blob/main/build/icon.png?raw=true" width="150" height="150" alt="banner" />
+    <img src="https://github.com/juneding76/gilt-studio/blob/production/build/icon.png?raw=true" width="150" height="150" alt="banner" />
   </a>
 </h1>
 <div align="center">
   <a href="./README.md">English</a> | <a href="./README.zh.md">中文</a> | 日本語
 </div>
-<div align="center">
- <a href="https://trendshift.io/repositories/11772" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11772" alt="juneding76%2Fgilt-studio| Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 </div>
+
 # GiltStudio
 
 GiltStudioは、複数のLLMプロバイダーをサポートするデスクトップクライアントで、Windows、Mac、Linuxで利用可能です。
@@ -16,7 +16,6 @@ GiltStudioは、複数のLLMプロバイダーをサポートするデスクト�
 
 # 🌟 主な機能
 
-![](https://github.com/user-attachments/assets/7b4f2f78-5cbe-4be8-9aec-f98d8405a505)
 
 1. **多様な LLM サービス対応**：
 

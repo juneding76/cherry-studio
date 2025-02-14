@@ -1,14 +1,13 @@
 <h1 align="center">
   <a href="https://github.com/juneding76/gilt-studio/releases">
-    <img src="https://github.com/juneding76/gilt-studio/blob/main/build/icon.png?raw=true" width="150" height="150" alt="banner" />
+    <img src="https://github.com/juneding76/gilt-studio/blob/production/build/icon.png?raw=true" width="150" height="150" alt="banner" />
   </a>
 </h1>
 <div align="center">
-  中文 / <a href="https://github.com/juneding76/gilt-studio">English</a> / <a href="./README.ja.md">日本語</a>
+  中文 / <a href="README.md">English</a> / <a href="./README.ja.md">日本語</a>
 </div>
-<div align="center">
- <a href="https://trendshift.io/repositories/11772" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11772" alt="juneding76%2Fgilt-studio| Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</div>
+ </div>
+
 # GiltStudio
 
 GiltStudio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。
@@ -16,7 +15,6 @@ GiltStudio 是一款支持多个大语言模型（LLM）服务商的桌面客户
 
 # 🌟 主要特性
 
-![](https://github.com/user-attachments/assets/995910f3-177a-4d1e-97ea-04e3b009ba36)
 
 1. **多样化 LLM 服务支持**：
 
