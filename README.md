@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/juneding76/gilt-studio/releases">
-    <img src="https://github.com/juneding76/gilt-studio/blob/main/build/icon.png?raw=true" width="150" height="150" alt="banner" /><br>
+    <img src="https://https://github.com/juneding76/gilt-studio/blob/production/build/icon.png?raw=true" width="150" height="150" alt="banner" /><br>
   </a>
 </h1>
   <p align="center">English | <a href="./docs/README.zh.md">中文</a> | <a href="./docs/README.ja.md">日本語</a><br></p>
