@@ -10,7 +10,7 @@
 
 # GiltStudio
 
-GiltStudio is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+GiltStudio is a desktop client that supports multiple LLM providers and is available on Windows, Mac, and Linux.
 
 
 # 🌟 Key Features
