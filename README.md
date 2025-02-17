@@ -10,7 +10,7 @@
 
 # GiltStudio
 
-GiltStudio is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+GiltStudio is a desktop client that supports multiple LLM providers and is available on Windows, Mac, and Linux.
 
 
 # 🌟 Key Features
@@ -18,7 +18,7 @@ GiltStudio is a desktop client that supports for multiple LLM providers, availab
 
 1. **Diverse LLM Provider Support**:
 
-   - ☁️ Major LLM Cloud Services: OpenAI, Gemini, Anthropic, and more
+   - ☁️ Major LLM Cloud Services: OpenAI, Gemini, Anthropic, DeepSeek, and more
    - 🔗 AI Web Service Integration: Claude, Peplexity, Poe, and others
    - 💻 Local Model Support with Ollama
 
