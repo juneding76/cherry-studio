@@ -18,7 +18,7 @@ GiltStudio 是一款支持多个大语言模型（LLM）服务商的桌面客户
 
 1. **多样化 LLM 服务支持**：
 
-   - ☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等
+   - ☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、DeepSeek、硅基流动等
    - 🔗 集成流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等
    - 💻 支持 Ollama 本地模型部署
 
