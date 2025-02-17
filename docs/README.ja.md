@@ -19,7 +19,7 @@ GiltStudioは、複数のLLMプロバイダーをサポートするデスクト�
 
 1. **多様な LLM サービス対応**：
 
-   - ☁️ 主要な LLM クラウドサービス対応：OpenAI、Gemini、Anthropic など
+   - ☁️ 主要な LLM クラウドサービス対応：OpenAI、Gemini、Anthropic、DeepSeek など
    - 🔗 AI Web サービス統合：Claude、Peplexity、Poe など
    - 💻 Ollama によるローカルモデル実行対応
 
